@@ -12,3 +12,4 @@ set laststatus=2 " Show status bar and set format(include bottom line)
 set statusline=\ %<%l:%v\ [%P]%=%a\ %h%m%r\ %F\
 set autoread " Automatic reflection of changes that has been occured
 set paste " Prevent indentation from breaking when copying and pasting
+
